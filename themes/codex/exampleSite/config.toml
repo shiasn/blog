@@ -1,5 +1,8 @@
+# REMOVE THIS
+themesDir = "../../" 
+
 # DO NOT REMOVE THIS
-theme = "codex"
+theme = "hugo-theme-codex" 
 
 # Override these settings with your own
 title = "codex"
@@ -20,8 +23,8 @@ copyright = "© {year}"
   dateFormat = "Jan 2 2006"
 
   # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
-  # twitter = "https://twitter.com/<your handle>"
-  # github = "https://github.com/<your handle>"
+  twitter = "https://twitter.com/<your handle>"
+  github = "https://github.com/<your handle>"
   # email = "mailto:<your email>"
   # facebook = "https://facebook.com/<your handle>"
   # gitlab = "https://gitlab.com/<your handle>"
@@ -53,15 +56,15 @@ copyright = "© {year}"
 # Controls the navigation
 [[menu.main]]
   identifier = "about"
-  name = "About"
+  name = "about"
   title = "About"
   url = "/"
 
 [[menu.main]]
-  identifier = "posts"
-  name = "Posts"
-  title = "Posts"
-  url = "/posts"
+  identifier = "blog"
+  name = "blog"
+  title = "Blog"
+  url = "/blog"
 
 
 
