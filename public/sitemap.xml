@@ -2,10 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.shiasn.com/</loc>
+    <loc>https://blog.shiasn.com/tags/blog/</loc>
+    <lastmod>2021-12-08T03:57:12+08:00</lastmod>
   </url><url>
-    <loc>https://blog.shiasn.com/categories/</loc>
+    <loc>https://blog.shiasn.com/</loc>
+    <lastmod>2021-12-08T03:57:12+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.shiasn.com/posts/</loc>
+    <lastmod>2021-12-08T03:57:12+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.shiasn.com/tags/story/</loc>
+    <lastmod>2021-12-08T03:57:12+08:00</lastmod>
   </url><url>
     <loc>https://blog.shiasn.com/tags/</loc>
+    <lastmod>2021-12-08T03:57:12+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.shiasn.com/posts/test/</loc>
+    <lastmod>2021-12-08T03:57:12+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.shiasn.com/categories/</loc>
   </url>
 </urlset>
